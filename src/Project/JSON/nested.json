@@ -1,0 +1,41 @@
+[
+    {
+        "id": "001",
+        "name": "theja",
+        "age": [
+            {
+                "year" : [
+                    {
+                        "dob":"june"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "name": "sree",
+        "age": [
+            {
+                "year" : [
+                    {
+                        "dob":"aug "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "name": "thejasree",
+        "age": [
+            {
+                "year" : [
+                    {
+                        "dob":"july"
+                    }
+                ]
+            }
+        ]
+    }
+]

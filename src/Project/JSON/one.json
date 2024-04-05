@@ -1,0 +1,227 @@
+{
+  "menu": {
+    "categories": [
+      {
+        "name": "Peri Peri Chicken",
+        "items": [
+          {
+            "name": "Peri Peri 5 Leg Pc & 2 Dips",
+            "serves" : "Serves 2",
+            "type" : "Non-Veg",
+            "description": "Save Rs. 120 on 5 Peri Peri Leg Pieces, paired with 2 delicious dips (20gm each).",
+            "price": 7.99,
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34727-0.jpg?ver=40.37"
+          },
+          {
+            "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+            "serves" : "Serves 2",
+            "type" : "Non-Veg",
+            "description": "Save 24% on 10 Spicy Peri Peri chicken boneless strips with 2 Dips",
+            "price": 9.99,
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34728-0.jpg?ver=40.37"
+          },
+          {
+              "name": "Peri Peri 10 Leg Pc & 4 Dips",
+              "serves" : "Serves 3-4",
+              "type" : "Non-Veg",
+              "description": "Save Rs. 334 on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each)",
+              "price": 7.99,
+              "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34727-0.jpg?ver=40.37"
+            },
+            {
+              "name": "Peri Peri 5 Leg Pc Meal",
+              "serves" : "Serves 2",
+              "type" : "Non-Veg",
+              "description": "Save Rs. 148 on 5 Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & 1 Pepsi 475ml",
+              "price": 9.99,
+              "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34728-0.jpg?ver=40.37"
+            }
+        ]
+      },
+      {
+        "name": "Value Snackers",
+        "items": [
+          {
+            "name": "Choco Lava Cake",
+            "type" : "Veg",
+            "description": "Soft Choco lava cake with a gooey center- perfect chocolaty end to every meal",
+            "price": "108.57",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34888-43178.jpg?ver=40.37"
+          },
+          {
+            "name": "Single Chicken Roll",
+            "type" : "Non-Veg",
+            "price": "119.05",
+            "description": "Street style roll with single chicken strip, onions and two spicy sauce",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34697-43079.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "2 X Veg Longer Burger",
+            "type" : "Non-Veg",
+            "price": "198.10",
+            "description": "The really long burger with Veg strip, onion and dynamite mayo sauce",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34697-43079.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "Veg Roll Meal",
+            "type" : "Non-Veg",
+            "price": "399.05",
+            "description": "Deal meal of 2 Veg Rolls, Large Fries and a Pepsi PET 475ml",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35071-0.jpg?ver=40.68"
+          }
+        ]
+      },
+      {
+        "name": "Chicken Rolls",
+        "items": [
+          {
+            "name": "Classic Chicken Roll & Pepsi Combo",
+            "serves" : "Serves 1",
+            "type" : "Non-Veg",
+            "description": "Our new Classic Chicken Roll served with Pepsi 475ml",
+            "price": "176.19"
+            ,
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34748-0.jpg?ver=40.68"
+          },
+          {
+            "name": "Double Chicken Roll & Pepsi Combo",
+             "serves" : "Serves 2",
+            "type" : "Non-Veg",
+            "description": "Our new Double Chicken Roll served with Pepsi 475ml",
+            "price": "225.71",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34749-0.jpg?ver=40.68"
+          },
+          {
+            "name": "Classic Chicken Roll Meal for 1",
+             "serves" : "Serves 1",
+            "type" : "Non-Veg",
+            "description": "Deal combo of 1 Classic Chicken Roll, Large Fries, 2 Dips & Pepsi 475ml",
+            "price": "339.05",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34750-0.jpg?ver=40.68"
+          },
+          {
+            "name": "Classic Chicken Roll",
+            "type" : "Non-Veg",
+            "description": "Our new Double Chicken Roll served with Pepsi 475ml",
+            "price": "119.05",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34754-43115.jpg?ver=40.68"
+          }
+          
+
+          
+        ]
+      },
+      {
+        "name": "Chicken Buckets",
+        "items": [
+          {
+            "name": "Wednesday Bucket",
+            "type" : "Non-Veg",
+            "description": "Flat 39% off on 10 pcs of Hot & Crispy Chicken",
+            "price": "719.05",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30637-40485.jpg?ver=40.68"
+          },
+          {
+            "name": "Wednesday Strips Bucket",
+            "type" : "Non-Veg",
+            "price": "350.48",
+            "description": "Flat 58% off on 12 pc Peri Peri chicken strips & 4 delicious dips (20gm each)",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33934-42620.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "Family Feast",
+            "type" : "Non-Veg",
+            "price": "728.57",
+            "description": "Flat 30% off on 4 pc Hot & Crispy, 4 pc strips, 2 plain rice bowl & 2 dips",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35423-0.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "All In One Bucket",
+            "type" : "Non-Veg",
+            "serves" : "Serves 2",
+            "price": "548.57",
+            "description": "Save 24% on this amazing variety bucket",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34855-0.jpg?ver=40.68"
+          }
+        ]
+      },
+      {
+        "name": "BOX MEALS",
+        "items": [
+          {
+            "name": "All Chicken Box",
+            "type" : "Non-Veg",
+            "description": "A Box with your favorites! Get 1 pc Hot & Crispy, 2 Hot Wings & 1 Chicken Strip at a deal price",
+            "price": "189.52",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32050-0.jpg?ver=40.68"
+          },
+          {
+            "name": "Classic Zinger Box",
+            "type" : "Non-Veg",
+            "price": "328.57",
+            "description": "A deal for Zinger lovers : Get 1 Classic Zinger, 2 Hot Wings, Veg Patty, 1 Pepsi 475ml",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32053-0.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "Family Feast",
+            "type" : "Non-Veg",
+            "price": "728.57",
+            "description": "Flat 30% off on 4 pc Hot & Crispy, 4 pc strips, 2 plain rice bowl & 2 dips",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35423-0.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "All In One Bucket",
+            "type" : "Non-Veg",
+            "serves" : "Serves 2",
+            "price": "548.57",
+            "description": "Save 24% on this amazing variety bucket",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34855-0.jpg?ver=40.68"
+          }
+        ]
+      },
+      {
+        "name": "BURGERS",
+        "items": [
+          {
+            "name": "Zinger Pro burger",
+            "type" : "Non-Veg",
+            "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion",
+            "price": "219.05",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35005-43237.jpg?ver=40.68"
+          },
+          {
+            "name": "Zinger Pro Burger & Popcorn Meal",
+            "type" : "Non-Veg",
+            "price": "459.05",
+            "description": "New Zinger Pro burger with Medium Popcorn & Pepsi 475ml at a deal price",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35006-0.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "Zinger Pro Burger & Chicken Meal",
+            "type" : "Non-Veg",
+            "price": "399.05",
+            "description": "New Zinger Pro burger with 1 Hot & Crispy chicken & Pepsi 475ml at a deal pric",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-35007-0.jpg?ver=40.68"
+          }
+          ,
+          {
+            "name": "Chicken Zinger Burger - Classic with Cheese",
+            "type" : "Non-Veg",
+            "price": "223.81",
+            "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+            "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-34833-0.jpg?ver=40.68"
+          }
+        ]
+      }
+
+
+    ]
+  }
+}

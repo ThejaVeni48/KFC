@@ -1,0 +1,54 @@
+.wrapper{
+    width:100%;
+    border: 1px solid #000;
+    display: flex;
+}
+.left{
+    position:fixed;
+    width:15%;
+    border: 1px solid #000;
+    margin-left: 60px;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap:120px;
+}
+.leftTop{
+    width:100%;
+    height: 60px;
+    display: flex;
+    z-index: -100;
+}
+.left h2{
+    font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 43px;
+    letter-spacing: 1px;
+}
+.one,.two,.three{
+width:20px;
+background-color: red;
+margin: 3px;
+}
+.right{
+width:80%;
+position: absolute;
+border: 1px solid pink;
+left:20%;
+display: flex;
+flex-wrap: wrap;
+}
+.deliver{
+    width: 100%;
+    background-color:#202124;
+}
+.deliver h2{
+    color:white;
+    padding: 20px;
+}
+.eachCard{
+    width: 58rem;
+
+}

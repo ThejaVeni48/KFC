@@ -1,0 +1,95 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.one{
+    width:80%;
+    margin:0px 170px;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.one img{
+    width:80px;
+}
+.two {
+    width: 80%;
+    margin:50px 170px;
+   border: 1px solid red;
+   /* background-color: rgb(178, 190, 177); */
+     display: flex;
+     flex-direction: row;
+    box-shadow: 2px 2px 1px 1px black;
+    gap:70px;
+}
+.items{
+    width:60%;
+    border: 1px solid #000;
+    display: flex;
+    
+
+}
+.image{
+    display: flex;
+    flex-direction: column;
+}
+/* .twoFirst {
+    margin:10px;
+    padding: 10px;
+    width:70%;
+    border: 1px solid pink;
+    gap:50px;
+}
+.image{
+    margin:10px;
+ gap:50px;
+    display: flex;
+}
+.twoSecond {
+    width:50%;
+    border: 3px solid red;
+}
+.itemName {
+    display: flex;
+    flex-direction: column;
+   
+    margin:10px;
+    width:350px;
+}
+.itemName button {
+    width:100px;
+    border: none;
+    outline:none;
+    text-decoration: underline;
+    background-color: transparent;
+}
+.itemName button:hover {
+   
+    background-color: white;
+}
+.quantityIncrease {
+    width:200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.quantityIncrease button {
+    width: 25px;
+    border-radius: 50%;
+}
+.quantityIncrease p {
+    margin-top: 15px;
+    width: 50px;
+    text-align: center;
+}
+.more {
+    width:50%;
+    border: 1px solid #000;
+    margin:10px 170px;
+    display: flex;
+    justify-content: space-between;
+} */

@@ -1,0 +1,33 @@
+.main{
+    width: 100vw;
+    height: 500px;
+    background: red;
+    display: flex;
+}
+.one{
+    width:5vw;
+    height: 300px;
+    border: 1px solid #000;
+
+}
+.four{
+    width:5vw;
+    height: 300px;
+    border: 1px solid #000;
+}
+.two{
+    width:75vw;
+    height: 300px;
+    border: 1px solid #000;
+    display: flex;
+}
+.list{
+    width: 30vw;
+    height: 200px;
+    background-color: green;
+}
+.three{
+    width:15vw;
+    height: 300px;
+    border: 1px solid #000;
+}

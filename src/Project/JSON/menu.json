@@ -1,0 +1,261 @@
+{
+  "menu": {
+      "categories": [
+          {
+              "name": "Peri Peri Chicken",
+              "items": [
+                  {
+                      "id": "PP1",
+                      "name": "Peri Peri 5 Leg Pc & 2 Dips",
+                      "serves": "Serves 2",
+                      "type": "Non-Veg",
+                      "description": "Save Rs. 120 on 5 Peri Peri Leg Pieces, paired with 2 delicious dips (20gm each).",
+                      "price": 7.99,
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "PP2",
+                      "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+                      "serves": "Serves 2",
+                      "type": "Non-Veg",
+                      "description": "Save 24% on 10 Spicy Peri Peri chicken boneless strips with 2 Dips",
+                      "price": 9.99,
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "PP3",
+                      "name": "Peri Peri 10 Leg Pc & 4 Dips",
+                      "serves": "Serves 3-4",
+                      "type": "Non-Veg",
+                      "description": "Save Rs. 334 on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each)",
+                      "price": 7.99,
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "PP4",
+                      "name": "Peri Peri 5 Leg Pc Meal",
+                      "serves": "Serves 2",
+                      "type": "Non-Veg",
+                      "description": "Save Rs. 148 on 5 Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & 1 Pepsi 475ml",
+                      "price": 9.99,
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          },
+          {
+              "name": "Value Snackers",
+              "items": [
+                  {
+                      "id": "VS1",
+                      "name": "Choco Lava Cake",
+                      "type": "Veg",
+                      "description": "Soft Choco lava cake with a gooey center- perfect chocolaty end to every meal",
+                      "price": "108.57",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "VS2",
+                      "name": "Single Chicken Roll",
+                      "type": "Non-Veg",
+                      "price": "119.05",
+                      "description": "Street style roll with single chicken strip, onions and two spicy sauce",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "VS3",
+                      "name": "2 X Veg Longer Burger",
+                      "type": "Non-Veg",
+                      "price": "198.10",
+                      "description": "The really long burger with Veg strip, onion and dynamite mayo sauce",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "VS4",
+                      "name": "Veg Roll Meal",
+                      "type": "Non-Veg",
+                      "price": "399.05",
+                      "description": "Deal meal of 2 Veg Rolls, Large Fries and a Pepsi PET 475ml",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          },
+          {
+              "name": "Chicken Rolls",
+              "items": [
+                  {
+                      "id": "CR1",
+                      "name": "Classic Chicken Roll & Pepsi Combo",
+                      "serves": "Serves 1",
+                      "type": "Non-Veg",
+                      "description": "Our new Classic Chicken Roll served with Pepsi 475ml",
+                      "price": "176.19",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CR2",
+                      "name": "Double Chicken Roll & Pepsi Combo",
+                      "serves": "Serves 2",
+                      "type": "Non-Veg",
+                      "description": "Our new Double Chicken Roll served with Pepsi 475ml",
+                      "price": "225.71",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CR3",
+                      "name": "Classic Chicken Roll Meal for 1",
+                      "serves": "Serves 1",
+                      "type": "Non-Veg",
+                      "description": "Deal combo of 1 Classic Chicken Roll, Large Fries, 2 Dips & Pepsi 475ml",
+                      "price": "339.05",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CR4",
+                      "name": "Classic Chicken Roll",
+                      "type": "Non-Veg",
+                      "description": "Our new Double Chicken Roll served with Pepsi 475ml",
+                      "price": "119.05",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          },
+          {
+              "name": "Chicken Buckets",
+              "items": [
+                  {
+                      "id": "CB1",
+                      "name": "Wednesday Bucket",
+                      "type": "Non-Veg",
+                      "description": "Flat 39% off on 10 pcs of Hot & Crispy Chicken",
+                      "price": "719.05",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CB2",
+                      "name": "Wednesday Strips Bucket",
+                      "type": "Non-Veg",
+                      "price": "350.48",
+                      "description": "Flat 58% off on 12 pc Peri Peri chicken strips & 4 delicious dips (20gm each)",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CB3",
+                      "name": "Family Feast",
+                      "type": "Non-Veg",
+                      "price": "728.57",
+                      "description": "Flat 30% off on 4 pc Hot & Crispy, 4 pc strips, 2 plain rice bowl & 2 dips",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "CB4",
+                      "name": "All In One Bucket",
+                      "type": "Non-Veg",
+                      "serves": "Serves 2",
+                      "price": "548.57",
+                      "description": "Save 24% on this amazing variety bucket",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          },
+          {
+              "name": "BOX MEALS",
+              "items": [
+                  {
+                      "id": "BM1",
+                      "name": "All Chicken Box",
+                      "type": "Non-Veg",
+                      "description": "A Box with your favorites! Get 1 pc Hot & Crispy, 2 Hot Wings & 1 Chicken Strip at a deal price",
+                      "price": "189.52",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "BM2",
+                      "name": "Classic Zinger Box",
+                      "type": "Non-Veg",
+                      "price": "328.57",
+                      "description": "A deal for Zinger lovers : Get 1 Classic Zinger, 2 Hot Wings, Veg Patty, 1 Pepsi 475ml",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "BM3",
+                      "name": "Family Feast",
+                      "type": "Non-Veg",
+                      "price": "728.57",
+                      "description": "Flat 30% off on 4 pc Hot & Crispy, 4 pc strips, 2 plain rice bowl & 2 dips",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "BM4",
+                      "name": "All In One Bucket",
+                      "type": "Non-Veg",
+                      "serves": "Serves 2",
+                      "price": "548.57",
+                      "description": "Save 24% on this amazing variety bucket",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          },
+          {
+              "name": "BURGERS",
+              "items": [
+                  {
+                      "id": "B1",
+                      "name": "Zinger Pro burger",
+                      "type": "Non-Veg",
+                      "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion",
+                      "price": "219.05",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "B2",
+                      "name": "Zinger Pro Burger & Popcorn Meal",
+                      "type": "Non-Veg",
+                      "price": "459.05",
+                      "description": "New Zinger Pro burger with Medium Popcorn & Pepsi 475ml at a deal price",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "B3",
+                      "name": "Zinger Pro Burger & Chicken Meal",
+                      "type": "Non-Veg",
+                      "price": "399.05",
+                      "description": "New Zinger Pro burger with 1 Hot & Crispy chicken & Pepsi 475ml at a deal pric",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  },
+                  {
+                      "id": "B4",
+                      "name": "Chicken Zinger Burger - Classic with Cheese",
+                      "type": "Non-Veg",
+                      "price": "223.81",
+                      "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+                      "image": "https://online.kfc.co.in/static/media/Stripes_Small_OffersIcon.87fc6256.svg",
+                      "count": 1
+                  }
+              ]
+          }
+      ]
+  }
+}

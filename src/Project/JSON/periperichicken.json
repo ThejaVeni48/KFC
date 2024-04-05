@@ -1,0 +1,33 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Peri Peri Chicken",
+            "description": "Grilled chicken marinated in peri peri sauce.",
+            "price": 10.99,
+            "image": "https://f1.econotimes.com/2022/08/ekr6x36aan_th_1024x0.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Peri Peri Chicken Burger",
+            "description": "Grilled chicken burger with peri peri sauce.",
+            "price": 8.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCdoKVURv2MCLtgXIjYdsJWKgHQqgo0RBFg&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Peri Peri Chicken Wrap",
+            "description": "Grilled chicken wrap with peri peri sauce.",
+            "price": 7.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCdoKVURv2MCLtgXIjYdsJWKgHQqgo0RBFg&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "Peri Peri Chicken Wings",
+            "description": "Crispy chicken wings tossed in peri peri sauce.",
+            "price": 6.99,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCdoKVURv2MCLtgXIjYdsJWKgHQqgo0RBFg&usqp=CAU"
+        }
+    ]
+}
+

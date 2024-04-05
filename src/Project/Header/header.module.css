@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navBar{
+    width: 100%;
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 50px;
+    margin-top: 60px;
+    font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 700;
+    position: sticky;
+    top:2px;
+    z-index:100;
+
+   
+
+}
+
+.left{
+    width: 33.33%;
+    /* background-color: pink; */
+    display: flex;
+    flex-grow: 1;
+    justify-content:flex-start;
+    align-items: center;
+}
+.left ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* background-color: red; */
+    gap:110px;
+}.right ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap:70px;
+    /* background-color: red; */
+    line-height: 90px;
+}
+.right ul li , .left ul li {
+    list-style: none;
+}
+.right{
+    width: 33.33%;
+    /* background-color: pink; */
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+   
+}
+
+.right{
+    width: 33.33%;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.rightImage{
+    width: 15%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    flex-grow: 1;
+    cursor: pointer;
+}
+.rightList{
+    width:35%;
+    display: flex;
+    flex-grow: 2;
+}
+.rightList ul {
+    display: flex;
+    flex-grow: 1;
+    justify-content:flex-end;
+    gap:14px;
+    list-style: none;
+    cursor: pointer;
+}
+.sign  span{
+    color: black;
+}
+
