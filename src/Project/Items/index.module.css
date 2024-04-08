@@ -29,9 +29,9 @@
     align-items: center;
 }
 .leftMiddle h1{
-    font-family: "National 2 Condensed";
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
     font-style: normal;
-    font-weight: 700;
     font-size: 34px;
     line-height: 43px;
     letter-spacing: 1px;

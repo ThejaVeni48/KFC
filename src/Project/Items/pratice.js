@@ -3,6 +3,7 @@ import data from '../JSON/one.json'
 import styles from './index.module.css'
 import  Card from 'react-bootstrap/Card';
 import { CartContext } from '../Routes';
+import { Cart3 } from 'react-bootstrap-icons';
 
 
 
@@ -55,7 +56,7 @@ return (
                     <p>{item.type}</p>
                     <Card.Title><span>&#8377;</span>{item.price}</Card.Title>
                 </Card.Body>
-                <button style={bbtn} onClick={() => handleClick(item)}>Add To Cart</button>
+                <button style={bbtn} onClick={() => handleClick(item)}>Add To Cart <Cart3/></button>
                 
 
             </Card>
