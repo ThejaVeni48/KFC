@@ -18,7 +18,7 @@ function BasicExample() {
     <div className={styles.wrapper}>
       <div className={styles.category}>
         <h3>BROWSE Categories</h3>
-        <i></i>
+        <i className={styles.line}></i>
       </div>
       <div className={styles.items}>
         {kfcImages.images.map((image) => (

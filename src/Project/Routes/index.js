@@ -7,6 +7,8 @@ import Home from "../HomePage/home";
 import MyCart from "../MyCart";
 import { createContext, useState } from "react";
 import SignUp from "../SignUp/signup";
+import CheckOut from "../CheckOut";
+import Checkout from "../CheckOut";
 
 export const CartContext = createContext();
 
@@ -17,10 +19,20 @@ const Navigate = () => {
     setCart((prevCart) => [...prevCart, item]);
     alert("item added");
   };
+  const removeFromCart = (itemToRemove) => {
+    setCart((prevCart) => prevCart.filter((item) => item.id !== itemToRemove));
+    console.log("item is deleted")
+  };
+  
+
+  const removeAllItems = () => {
+    setCart([]);
+  };
+
 
   return (
     <BrowserRouter>
-      <CartContext.Provider value={{ cart, handleClick }}>
+      <CartContext.Provider value={{ cart, handleClick, removeFromCart, removeAllItems }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/menu" element={<Menu />} />
@@ -28,7 +40,9 @@ const Navigate = () => {
           <Route path="/basic" element={<BasicExample />} />
           <Route path="/mycart" element={<MyCart />} />
           <Route path="/signup" element={<SignUp/>} />
-        </Routes>
+          <Route path='/menu' element={<MyCart/>}/>   
+          <Route path="/checkout" element={<Checkout />} />
+          </Routes>
       </CartContext.Provider>
     </BrowserRouter>
   );

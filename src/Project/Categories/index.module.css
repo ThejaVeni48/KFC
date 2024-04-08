@@ -33,7 +33,7 @@ h2{
 .eachCard:hover{
     transform:translate(10px,10px);
 }
- i{
+ .line{
     width: 55%;
     position: absolute;
     left:60%;
