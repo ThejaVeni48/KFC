@@ -195,6 +195,7 @@ const MyCart = ({children}) => {
 
   const MoreItems = () => {
     nav('/menu');
+    
   };
 
   const checkOut = () => {

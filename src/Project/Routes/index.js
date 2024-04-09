@@ -2,13 +2,14 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Menu from "../Menu";
 import Cart from "../cart/cart";
 import BasicExample from "../Categories";
-import Header from "../Header/header";
+// import Header from "../Header/header";
 import Home from "../HomePage/home";
 import MyCart from "../MyCart";
 import { createContext, useState } from "react";
 import SignUp from "../SignUp/signup";
-import CheckOut from "../CheckOut";
+// import CheckOut from "../CheckOut";
 import Checkout from "../CheckOut";
+import Payment from "../payment";
 
 export const CartContext = createContext();
 
@@ -42,6 +43,7 @@ const Navigate = () => {
           <Route path="/signup" element={<SignUp/>} />
           <Route path='/menu' element={<MyCart/>}/>   
           <Route path="/checkout" element={<Checkout />} />
+          <Route path="/payment" element={<Payment/>}/>
           </Routes>
       </CartContext.Provider>
     </BrowserRouter>
