@@ -42,9 +42,9 @@ const Header =({name})=>{
             </div>
             <div className={styles.right}>
                 <ul>
-                        <li className={styles.sign}><Link to ={'/signup'} ><Icon.PersonCircle/> <span>SignUp</span></Link></li>
+                        <li className={styles.sign}><Link to ={'/signup'} ><Icon.PersonCircle/></Link></li>
                         <li><img src={kfc} width={70} onClick={goToCart}/></li>
-                         <p style={{position:"absolute" , top:"15%", right:"18.3%"}}>{count.cart.length}</p>
+                         <p style={{position:"absolute" , top:"15%", right:"20.3%"}}>{count.cart.length}</p>
                 </ul>
             </div>
         </nav>

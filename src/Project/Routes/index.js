@@ -20,10 +20,10 @@ const Navigate = () => {
     setCart((prevCart) => [...prevCart, item]);
     alert("item added");
   };
-  const removeFromCart = (itemToRemove) => {
-    setCart((prevCart) => prevCart.filter((item) => item.id !== itemToRemove));
-    console.log("item is deleted")
-  };
+  // const removeFromCart = (itemToRemove) => {
+  //   setCart((prevCart) => prevCart.filter((item) => item.id !== itemToRemove));
+  //   console.log("item is deleted")
+  // };
   
 
   const removeAllItems = () => {
@@ -33,7 +33,7 @@ const Navigate = () => {
 
   return (
     <BrowserRouter>
-      <CartContext.Provider value={{ cart, handleClick, removeFromCart, removeAllItems }}>
+      <CartContext.Provider value={{ cart, handleClick, removeAllItems }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/menu" element={<Menu />} />
