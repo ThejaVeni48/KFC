@@ -3,7 +3,7 @@ import Header from "../Header/header"
 import styles from './menu.module.css'
 import Card from 'react-bootstrap/Card';
 
-import KFCImages from '../category.json'
+// import KFCImages from '../category.json'
 import Appo from "../Items";
 import OrderBtn from "../OrderBtn/order";
 import { useState } from "react";

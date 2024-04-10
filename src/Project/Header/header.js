@@ -30,6 +30,11 @@ const Header =({name})=>{
     carts('/mycart')
 }
 
+
+    const moveTosign = ()=>{
+        carts('/signup')
+    }
+
     return(
         <>
         <nav className={styles.navBar}>
@@ -42,7 +47,7 @@ const Header =({name})=>{
             </div>
             <div className={styles.right}>
                 <ul>
-                        <li className={styles.sign}><Link to ={'/signup'} ><Icon.PersonCircle/></Link></li>
+                        <li><button onClick={moveTosign} style={{border:"none", backgroundColor:"transparent"}}><Icon.PersonCircle/></button></li>
                         <li><img src={kfc} width={70} onClick={goToCart}/></li>
                          <p style={{position:"absolute" , top:"15%", right:"20.3%"}}>{count.cart.length}</p>
                 </ul>

@@ -1,9 +1,5 @@
 import React, { useState } from 'react';
-import menuData from '../JSON/menu.json'
-import image1 from '../Categories/bu.avif'
 import Card from 'react-bootstrap/Card';
-import kfcImages from '../JSON/periperichicken.json'
-
 
 import styles from './index.module.css'
 import Appoo from './pratice';

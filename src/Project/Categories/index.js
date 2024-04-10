@@ -4,10 +4,10 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import Card from 'react-bootstrap/Card';
-import kfcImages from '../category.json';
+import kfcImages from '../JSON/category.json';
 import styles from './index.module.css';
 
-function BasicExample() {
+function Categories() {
   const navigate = useNavigate();
 
   const handleBtn = () => {
@@ -36,4 +36,4 @@ function BasicExample() {
   );
 }
 
-export default BasicExample;
+export default Categories;

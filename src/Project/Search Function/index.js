@@ -1,5 +1,5 @@
 import { useState } from "react";
-import data from "../JSON/one.json";
+import data from "../JSON/menu.json";
 
 const Search = () => {
     const [text, setText] = useState('');

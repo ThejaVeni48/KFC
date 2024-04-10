@@ -34,8 +34,7 @@ const SignUp =()=>{
                <p className={styles.signIn}>Sign In/Sign Up</p>
                {/* <Title/> */}
                  <p className={styles.para}>LET'S SIGN IN OR CREATE ACCOUNT WITH YOUR PHONE <br/><p style={{textAlign:'center'}}>Number!</p></p>
-                 <input type='tel' value={phn} onChange={handlePhn} />
-                 <label htmlFor="phone">Phone Number:</label>
+                 <input type='tel' value={phn} onChange={handlePhn}  placeholder='Phone Number'/>
 
                 <span className={styles.star}>*</span>
                 <p className={styles.link}>By "logging in to KFC", you agree to our Privacy Policy and Terms & Conditions.</p>

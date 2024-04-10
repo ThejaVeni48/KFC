@@ -1,3 +1,5 @@
+
+
 import React, { useContext, useEffect, useState } from 'react';
 import data from '../JSON/one.json'
 import styles from './index.module.css'
@@ -84,4 +86,3 @@ const bbtn =
 
 
 export default Appoo;
-
